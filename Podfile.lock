@@ -1,0 +1,15 @@
+PODS:
+  - GrowingTextView (0.2.0)
+  - MBAutoGrowingTextView (0.1.0)
+
+DEPENDENCIES:
+  - GrowingTextView
+  - MBAutoGrowingTextView (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  GrowingTextView: 048c6ef8da6adfa89f010a9f11d5be6f569c75d7
+  MBAutoGrowingTextView: 3955d4513be3d184fe2cb7739999c1f994dcd4d5
+
+PODFILE CHECKSUM: 651bbb874683b0f1c0b8c5f30f35490c3b9cea64
+
+COCOAPODS: 1.2.0.rc.1
